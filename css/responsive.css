@@ -1,0 +1,454 @@
+@media only screen and (max-width: 1024px) and (min-width:888px){
+    .moves{
+        position: relative !important;
+        right: 111px !important;
+        top: 8px !important;
+        }
+        .abstract{
+        position: relative !important;
+        bottom: 23px !important;
+        }
+    .resp{
+    position: relative !important;
+    left: 100px !important;
+    bottom: 2px !important;
+    }
+    .resp2{
+        position: relative !important;
+        right: 85px !important;
+    }
+    .resp3{
+    position: relative !important;
+    right: 107px !important;
+    }
+    .resp4{
+        position: relative !important;
+        right: 113px !important;
+    }
+    .despac{
+        position: relative !important;
+        bottom: 8px !important;
+    }
+    .move{
+        font-size: 14px !important;
+    }
+    .movies{
+        font-size: 14px !important;
+    }
+    .movess{
+        font-size: 14px !important;
+    }
+    .movesss{
+        font-size: 14px !important;
+    }
+    
+}
+
+@media only screen and (max-width: 768px) and (min-width: 588px){
+    .moves{
+        position: relative !important;
+        bottom: 35px !important;
+        }
+        .abstract{
+        position: relative !important;
+        bottom: 35px !important;
+        }
+        .siv{
+            position: relative !important;
+            left: 75px !important;
+            width: 17% !important;
+            bottom: 1px !important;
+        }
+        .siv1{
+            position: relative !important;
+            width: 10% !important;
+            right: 59px !important;
+        }
+        .siv2{
+            position: relative !important;
+            right: 80px !important;
+            width: 17% !important;
+        }
+        .siv3{
+            position: relative !important;
+            right: 76px !important;
+            width: 17% !important;
+        }
+        .ipsum{
+            position: relative !important;
+            bottom: 8px !important;
+        }
+        .move{
+            font-size: 12px !important;
+        }
+        .movies{
+            font-size: 12px !important;
+        }
+        .movess{
+            font-size: 12px !important;
+        }
+        .movesss{
+            font-size: 12px !important;
+        }
+        .ch {
+            position: relative !important;
+            left: 60px !important;
+        }
+        .spencer{
+            position: relative !important;
+            left: 25px !important;
+        }
+        .strips{
+            position: relative;
+            left: 15px;
+        }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 374px){
+    .moves{
+        position: relative !important;
+        bottom: 35px !important;
+        left: 30px !important;
+        }
+        .abstract{
+        position: relative !important;
+        bottom: 35px !important;
+        left: 30px !important;
+        }
+        .mobile{
+            font-size: 16px !important;
+        }
+        .mobile-1{
+            font-size: 12px !important;
+        }
+        .hero{
+            height: 430px !important;
+        }
+        .backcg{
+            height: 430px !important;
+        }
+        .somebug{
+            width: 121% !important;
+        }
+        .inmobile{
+            font-size: 14px !important;
+            position: relative !important;
+            left: 10px !important;
+        }
+        .mych{
+            position: relative !important;
+            left: 10px !important;
+        }
+        .mov2{
+            position: relative !important;
+            left: 50px !important;
+        }
+        .trac{
+            position: relative !important;
+            left: 15px !important;
+        }
+        #menu{
+            position: fixed !important;
+            top: 10% !important;
+            z-index: 111111111 !important;
+            left: 0px !important;
+        }
+        .specimen{
+            position: relative !important;
+            top: 25px !important;
+            left: 25px !important;
+          }
+          .minor{
+            position: relative !important;
+            left: 15px !important;
+          }
+          .mysql{
+            width: 320px !important;
+          }
+          .vim{
+            position: relative !important;
+            left: 66px !important;
+            bottom: 1px !important;
+            width: 17% !important;
+          }
+          .chg{
+            position: relative !important;
+            right: 20px !important;
+          }
+          .popsq{
+              position: relative !important;
+              left: 10px !important;
+          }
+          .cont{
+              font-size: 14px !important;
+          }
+          .catri{
+            position: relative !important;
+            bottom: 8px !important;
+            left: 10px !important;
+          }
+          .si1{
+            position: relative !important;
+            right: 60px !important;
+            width: 10% !important;
+          }
+          .cg{
+            position: relative !important;
+            left: 18px !important;
+          }
+          .aml{
+            position: relative !important;
+            right: 70px !important;
+            width: 17% !important;
+          }
+          .ch{
+            position: relative !important;
+            left: 18px !important;
+          }
+          .suby{
+            position: relative !important;
+            right: 75px !important;
+            width: 17% !important;
+          }
+          .hg{
+            position: relative !important;
+            left: 18px !important; 
+          }
+          .main-6{
+            width: 109% !important;
+          }
+          .strips{
+              position: relative;
+              left: 15px;
+          }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 424px){
+    .moves{
+        position: relative !important;
+        bottom: 35px !important;
+        left: 8px !important;
+        }
+        .abstract{
+        position: relative !important;
+        bottom: 35px !important;
+        left: 8px !important;
+        }
+        .mobile{
+            font-size: 16px !important;
+        }
+        .mobile-1{
+            font-size: 12px !important;
+        }
+        .hero{
+            height: 400px !important;
+        }
+        .backcg{
+            height: 400px !important;
+        }
+        .inmobile{
+            font-size: 14px !important;
+        }
+        .trac{
+            position: relative !important;
+            left: 10px !important;
+        }
+        #menu{
+            position: fixed !important;
+            top: 10% !important;
+            z-index: 111111111 !important;
+            left: 0px !important;
+        }
+        .somebug{
+            width: 114% !important;
+        }
+        .specimen{
+            position: relative !important;
+            top: 20px !important;
+            left: 10px !important;
+          }
+          .minor{
+            position: relative !important;
+            left: 8px !important;
+          }
+          .mysql{
+            width: 355px !important;
+          }
+          .vim{
+            position: relative !important;
+            left: 73px !important;
+            bottom: 1px !important;
+            width: 17% !important;
+          }
+          .chg{
+            position: relative !important;
+            right: 20px !important;
+          }
+          .popsq{
+              position: relative !important;
+              left: 10px !important;
+          }
+          .cont{
+              font-size: 14px !important;
+          }
+          .catri{
+            position: relative !important;
+            bottom: 8px !important;
+            left: 10px !important;
+          }
+          .si1{
+            position: relative !important;
+            right: 64px !important;
+            width: 10% !important;
+          }
+          .cg{
+            position: relative !important;
+            left: 18px !important;
+          }
+          .aml{
+            position: relative !important;
+            right: 77px !important;
+            width: 17% !important;
+          }
+          .ch{
+            position: relative !important;
+            left: 18px !important;
+          }
+          .suby{
+            position: relative !important;
+            right: 80px !important;
+            width: 17% !important;
+          }
+          .hg{
+            position: relative !important;
+            left: 18px !important; 
+          }
+          .pink{
+            width: 355px !important;
+          }
+          .elaw{
+            width: 355px !important;
+          }
+          .main-6{
+            width: 105% !important;
+          }
+          .strips{
+            position: relative;
+            left: 15px;
+        }
+}
+
+@media only screen and (min-width: 425px) and (max-width: 570px){
+    .moves{
+        position: relative !important;
+        bottom: 35px !important;
+        left: 5px !important;
+        }
+        .abstract{
+        position: relative !important;
+        bottom: 35px !important;
+        left: 5px !important;
+        }
+        .mobile{
+            font-size: 16px !important;
+        }
+        .mobile-1{
+            font-size: 12px !important;
+        }
+        .hero{
+            height: 350px !important;
+        }
+        .backcg{
+            height: 350px !important;
+        }
+        .inmobile{
+            font-size: 14px !important;
+        }
+        .trac{
+            position: relative !important;
+            left: 10px !important;
+        }
+        #menu{
+            position: fixed !important;
+            top: 10% !important;
+            z-index: 111111111 !important;
+            left: 0px !important;
+        }
+        .somebug{
+            width: 113% !important;
+        }
+        .specimen{
+            position: relative !important;
+            top: 20px !important;
+            left: 10px !important;
+          }
+          .minor{
+            position: relative !important;
+            left: 8px !important;
+          }
+          .mysql{
+            width: 410px !important;
+          }
+          .vim{
+            position: relative !important;
+            left: 84px !important;
+            bottom: 1px !important;
+            width: 17% !important;
+          }
+          .chg{
+            position: relative !important;
+            right: 20px !important;
+          }
+          .popsq{
+              position: relative !important;
+              left: 10px !important;
+          }
+          .cont{
+              font-size: 14px !important;
+          }
+          .catri{
+            position: relative !important;
+            bottom: 8px !important;
+            left: 10px !important;
+          }
+          .si1{
+            position: relative !important;
+            right: 72px !important;
+            width: 10% !important;
+          }
+          .cg{
+            position: relative !important;
+            left: 18px !important;
+          }
+          .aml{
+            position: relative !important;
+            right: 94px !important;
+            width: 17% !important;
+          }
+          .ch{
+            position: relative !important;
+            left: 18px !important;
+          }
+          .suby{
+            position: relative !important;
+            right: 92px !important;
+            width: 17% !important;
+          }
+          .hg{
+            position: relative !important;
+            left: 18px !important; 
+          }
+          .pink{
+            width: 410px !important;
+          }
+          .elaw{
+            width: 410px !important;
+          }
+          .main-6{
+            width: 105% !important;
+          }
+          .strips{
+            position: relative;
+            left: 15px;
+        }
+}
