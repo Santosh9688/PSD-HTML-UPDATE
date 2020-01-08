@@ -57,6 +57,8 @@
     border: 3px solid #333333;
     padding: 5px 10px;
     box-shadow: 3px 5px #ffff00;
+    position: relative;
+    left: 8px;
 }
 .header-nav{
     padding: 25px 0px;
@@ -113,9 +115,21 @@
   .main-4{
     padding: 25px 0px;
   }
+  .main-5{
+    padding: 25px 0px;
+  }
   .moveimg{
       position: relative;
       left: 45px;
+  }
+  .mych{
+    margin-top: 8px;
+  }
+  .minor{
+    margin-top: 8px;
+  }
+  .popsq{
+    margin-top: 8px;
   }
 .space{
     padding-bottom: 10px !important;
@@ -302,4 +316,32 @@ transform:scale(1.1);
 }
 .fa-pinterest-square:hover{
     color: #5f00d4
+}
+.bg-images-1{
+  background-image: url(../images/101.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 370px;
+}
+.move{
+    z-index: 1;
+    position: relative;
+    top: 205px;
+    left: 115px;
+}
+.comp:hover{
+  text-decoration: none;
+  color: #5f00d4;
+}
+.moves:hover{
+  text-decoration: none;
+  color: #5f00d4;
+}
+.whole{
+  position: relative;
+  top: 130px;
+}
+.somebug{
+  position: relative;
+  bottom: 25px;
 }

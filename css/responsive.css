@@ -41,6 +41,10 @@
     .movesss{
         font-size: 14px !important;
     }
+    .strips{
+      position: relative !important;
+      left: -227px !important;
+    }
     
 }
 
@@ -102,6 +106,17 @@
             position: relative;
             left: 15px;
         }
+        /* .move{
+          position: relative !important;
+          top: 0 !important;
+          left: 0 !important;
+        } */
+        .hero{
+          height: 550px !important;
+      }
+      .backcg{
+          height: 550px !important;
+      }
 }
 
 @media only screen and (min-width: 320px) and (max-width: 374px){
@@ -113,7 +128,7 @@
         .abstract{
         position: relative !important;
         bottom: 35px !important;
-        left: 30px !important;
+        left: 40px !important;
         }
         .mobile{
             font-size: 16px !important;
@@ -133,15 +148,15 @@
         .inmobile{
             font-size: 14px !important;
             position: relative !important;
-            left: 10px !important;
+            left: 15px !important;
         }
         .mych{
             position: relative !important;
-            left: 10px !important;
+            left: 15px !important;
         }
         .mov2{
             position: relative !important;
-            left: 50px !important;
+            left: 55px !important;
         }
         .trac{
             position: relative !important;
@@ -215,12 +230,36 @@
             left: 18px !important; 
           }
           .main-6{
-            width: 109% !important;
+            width: 110% !important;
           }
           .strips{
               position: relative;
               left: 15px;
           }
+          .move{
+            position: relative !important;
+            top: 0 !important;
+            left: 20px !important;
+          }
+          .encaps{
+            width: 320px !important;
+          }
+          .whole {
+            position: relative !important;
+            top: 25px !important;
+        }
+        .chmod{
+          position: relative !important;
+          left: 20px !important;
+        }
+        .pex{
+          position: relative !important;
+          left: 20px !important;
+        }
+        .spencer{
+          position: relative !important;
+          left: 10px !important;
+      }
 }
 
 @media only screen and (min-width: 375px) and (max-width: 424px){
@@ -232,7 +271,7 @@
         .abstract{
         position: relative !important;
         bottom: 35px !important;
-        left: 8px !important;
+        left: 25px !important;
         }
         .mobile{
             font-size: 16px !important;
@@ -248,6 +287,8 @@
         }
         .inmobile{
             font-size: 14px !important;
+            position: relative !important;
+            left: 15px !important;
         }
         .trac{
             position: relative !important;
@@ -265,14 +306,14 @@
         .specimen{
             position: relative !important;
             top: 20px !important;
-            left: 10px !important;
+            left: 25px !important;
           }
           .minor{
             position: relative !important;
             left: 8px !important;
           }
           .mysql{
-            width: 355px !important;
+            width: 365px !important;
           }
           .vim{
             position: relative !important;
@@ -324,10 +365,10 @@
             left: 18px !important; 
           }
           .pink{
-            width: 355px !important;
+            width: 365px !important;
           }
           .elaw{
-            width: 355px !important;
+            width: 365px !important;
           }
           .main-6{
             width: 105% !important;
@@ -336,6 +377,39 @@
             position: relative;
             left: 15px;
         }
+        .move{
+          position: relative !important;
+          top: 0 !important;
+          left: 20px !important;
+        }
+        .encaps{
+          width: 365px !important;
+        }
+        .whole {
+          position: relative !important;
+          top: 25px !important;
+      }
+        .mych{
+          position: relative !important;
+          left: 15px !important;
+      }
+      .mov2{
+        position: relative !important;
+        left: 55px !important;
+       }
+      .spencer{
+        position: relative !important;
+        left: 10px !important;
+          }
+
+          .chmod{
+            position: relative !important;
+            left: 20px !important;
+          }
+          .pex{
+            position: relative !important;
+            left: 20px !important;
+          }
 }
 
 @media only screen and (min-width: 425px) and (max-width: 570px){
@@ -363,7 +437,17 @@
         }
         .inmobile{
             font-size: 14px !important;
+            position: relative !important;
+            left: 15px !important;
         }
+        .mych{
+          position: relative !important;
+          left: 15px !important;
+        }
+        .mov2{
+          position: relative !important;
+          left: 55px !important;
+         }
         .trac{
             position: relative !important;
             left: 10px !important;
@@ -451,4 +535,25 @@
             position: relative;
             left: 15px;
         }
+        .move{
+          position: relative !important;
+          top: 0 !important;
+          left: 20px !important;
+        }
+        .whole {
+          position: relative !important;
+          top: 20px !important;
+        }
+        .chmod{
+          position: relative !important;
+          left: 20px !important;
+        }
+        .pex{
+          position: relative !important;
+          left: 20px !important;
+        }
+        .spencer{
+          position: relative !important;
+          left: 10px !important;
+          }
 }
